@@ -63,7 +63,7 @@ To access workbooks:
 
 2. On the left navigation pane, select **Azure Active Directory**.
 
-3. In the **Monitoring** section, select **Workbooks**. 
+3. In the **Monitoring** section, select **Insights**. 
 
     ![Select Insights](./media/howto-use-azure-monitor-workbooks/41.png)
 
